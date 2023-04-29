@@ -30,17 +30,7 @@
                         |_|                
 ...............................................................................
 
-Hey there, welcome to the mod creation template based on the Purple Haze theme
-from  Opera GX. This  template  includes the original keyboard sounds, browser
-sounds, and music from Opera GX, as well as light and dark wallpapers that are
-based on the original Purple Haze wallpapers but have added information at the
-bottom to set them apart. There is also an example of animated wallpaper.
-
-We've also included a simple web  modding  CSS that changes the text color and
-background  color on web pages in the opera.com domain. This will show you how
-to read colors from the browser and apply them to web pages. And lastly, we've
-included  basic shaders  that  demonstrate  how  to  use  animated and  static
-versions. Have fun creating your mods!
+This is a mod inspired by zima blue.
                               
  _____           _ _ _       
 |     |___ ___ _| |_| |_ ___ 
@@ -48,7 +38,11 @@ versions. Have fun creating your mods!
 |_____|_| |___|___|_|_| |___|
 ...............................................................................
 
-CREDITS GO HERE
+MOD CREATED BY: AMP&RSAND
+SOUNDTRACK: 
+https://youtu.be/SPFwFtDuTc0, 
+https://www.youtube.com/watch?v=CqaAs_3azSs,
+https://www.youtube.com/watch?v=iGnophmx7VM
                                                               
  __    _                         
 |  |  |_|___ ___ ___ ___ ___ ___ 
